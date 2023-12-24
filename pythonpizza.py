@@ -15,7 +15,7 @@ if size.lower() == "s":
         bill += 1
     print(f"Your final bill is ${bill}.")
 elif size.lower() == "m":
-    bill = 20
+    bill = 25
     if add_pepperoni.lower() == "y":
         bill += 3
     if extra_cheese.lower() == "y":
