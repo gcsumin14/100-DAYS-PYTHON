@@ -1,4 +1,4 @@
-# IF+NESTED if+multiple if
+#IF+NESTED if+multiple if
 print("Welcome to the rollercoaster!")
 height = int(input("What is your height in cm? "))
 bill=0
